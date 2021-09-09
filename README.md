@@ -287,3 +287,23 @@ Special thanks to these amazing projects which help power Calendso:
 - [Prisma](https://prisma.io/)
 
 [product-screenshot]: https://i.imgur.com/4yvFj2E.png
+
+
+
+
+
+
+
+===============================
+Pavan's changes:
+
+yarn
+docker-compose up ( this will up postgres)
+yarn dx
+yarn dev
+
+
+To connect to post gres from machine:
+ -- new server
+ -- localhost
+ -- password : pavan
